@@ -72,5 +72,4 @@ The troubleshooter will either display useful information to help you understand
 
 See [Running a workflow on GitHub](https://docs.github.com/en/actions/managing-workflow-runs/manually-running-a-workflow#running-a-workflow) if you need assistance.
 
-ningke2015@gamil.com
-CCV9E~2I09bOECn1_PtHF9ZVPcvyeGGy7_OPuivP"
+
