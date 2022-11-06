@@ -71,3 +71,6 @@ If you are stuck with a step in the exercise or the grading workflow does not au
 The troubleshooter will either display useful information to help you understand what you might have done wrong in your exercise or redirect you to the documentation relevant to your exercise to help you out.
 
 See [Running a workflow on GitHub](https://docs.github.com/en/actions/managing-workflow-runs/manually-running-a-workflow#running-a-workflow) if you need assistance.
+
+ningke2015@gamil.com
+CCV9E~2I09bOECn1_PtHF9ZVPcvyeGGy7_OPuivP"
